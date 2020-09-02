@@ -1,9 +1,0 @@
-﻿  Main.cpp
-C:\Users\xgame\Desktop\Z80Emulator\Z80Emulator.h(158,1): warning C4333: '>>': right shift by too large amount, data loss
-C:\Users\xgame\Desktop\Z80Emulator\Z80Emulator.h(166,1): warning C4333: '>>': right shift by too large amount, data loss
-  Z80Emulator.cpp
-C:\Users\xgame\Desktop\Z80Emulator\Z80Emulator.h(158,1): warning C4333: '>>': right shift by too large amount, data loss
-C:\Users\xgame\Desktop\Z80Emulator\Z80Emulator.h(166,1): warning C4333: '>>': right shift by too large amount, data loss
-C:\Users\xgame\Desktop\Z80Emulator\Z80Emulator.cpp(149,13): warning C4305: 'argument': truncation from 'flag::StatusFlag' to 'const bool'
-  Generating Code...
-  Z80Emulator.vcxproj -> C:\Users\xgame\Desktop\Z80Emulator\Debug\Z80Emulator.exe

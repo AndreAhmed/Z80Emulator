@@ -1,2 +1,0 @@
-C:\Users\xgame\Desktop\Z80Emulator\Debug\Z80Emulator.exe
-C:\Users\xgame\Desktop\Z80Emulator\Debug\Z80Emulator.pdb
