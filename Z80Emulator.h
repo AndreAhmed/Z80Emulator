@@ -131,7 +131,7 @@ private:
 			_registers.c = value;
 			break;
 		case 'b':
-			_registers.d = value;
+			_registers.b = value;
 			break;
 		case 'd':
 			_registers.d = value;
